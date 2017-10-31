@@ -179,6 +179,9 @@ html, body {
 	color: white;
 	font-size: 0.8em;
 }
+.container{
+	overflow: hidden;
+}
 
 /* Todos os boxes - main */
 
@@ -194,6 +197,7 @@ html, body {
 .box__texto1 {
 	width: 100%;
 	height: auto;
+	padding: 0 30px;
 }
 
 .box__texto1 p {
