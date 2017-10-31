@@ -1,2 +1,3 @@
 # projeto2-grupod
-Projetos HTML CSS do 
+Projeto 2 do Grupo D do Senai Code XP
+
