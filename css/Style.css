@@ -178,3 +178,83 @@ html, body {
 	color: white;
 	font-size: 0.8em;
 }
+
+/* Todos os boxes - main */
+
+.box__texto1, .box__texto2, .box__texto3 {
+	padding: 20px;
+	font-family: sans-serif;
+	color: gray;
+}
+
+
+/* Box 1 - main */
+
+.box__texto1 {
+	width: 100%;
+	height: auto;
+}
+
+.box__texto1 p {
+	margin-top: 15px;
+}
+
+.box__texto1 span {
+	font-weight: bold;
+}
+
+/* Box 2 - main */
+
+.box__texto2 {
+	width: 60%;
+	float: left;
+}
+
+.box__texto2 p {
+	margin-top: 15px;
+}
+
+.box__texto2 img {
+	width: 9%;
+	height: auto;
+	float: left;
+}
+
+
+.box__texto2 div {
+	padding-left: 20px; 
+	width: 85%;
+	float: left;
+}
+
+.box__texto2 div a {
+	font-family: sans-serif;
+	font-size: 15pt;
+	font-weight: normal;
+	color: #8aa1e3;
+}
+
+/* Box 3 - main */
+
+.box__texto3 {
+	width: 40%;
+	float: right;
+}
+
+.box__texto3 p {
+	margin-top: 15px;
+}
+
+.box__texto3 img {
+	width: 100%;
+	height: 50px;
+	border-radius: 10px;
+}
+
+.box__texto3 h2 {
+	margin-bottom: 15px;
+}
+
+.box__texto3 div {
+	width: 90%;
+}
