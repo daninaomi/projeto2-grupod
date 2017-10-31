@@ -7,7 +7,7 @@
 
 html, body {
 	height: 100%;
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	overflow: hidden;
 }
 
@@ -17,13 +17,14 @@ html, body {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	margin-top: 2%;
+	font-size: 0.9em;
 }
 .cabecalho a{
 	width: 50%;
 }
 .cabecalho__logo{
 	width: 60%;
-	margin-top: 15px;
 }
 .cabecalho__navegacao{
 	width: 50%;
@@ -187,8 +188,8 @@ html, body {
 
 .box__texto1, .box__texto2, .box__texto3 {
 	padding: 20px;
-	font-family: sans-serif;
 	color: gray;
+	font-size: 0.9em;
 }
 
 
